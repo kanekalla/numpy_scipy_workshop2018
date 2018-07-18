@@ -10,6 +10,11 @@ Packages required are Numy and Scipy
 
 Download the jupyter notebook from this repository.
 
+# Get this notebook
+
+
+
+
 # Tutorials
 
 - [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) <br>
